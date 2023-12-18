@@ -1,1 +1,1 @@
-# blog-yarp-demo-in-docker-compose-with-tests
+# An Introduction to YARP (Yet Another Reverse Proxy)
